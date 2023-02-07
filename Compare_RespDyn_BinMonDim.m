@@ -1,5 +1,6 @@
 %This is a program that plots different response categories in the two eye
-%experiment. data is in TwoEyeAnalysis/ISI20/LXLXCXCX
+%experiment. data is in TwoEyeAnalysis/ISI20/LXLXCXCX. Created by Haleh
+%Fotowat
 close all
 clearvars
 path=uigetdir;

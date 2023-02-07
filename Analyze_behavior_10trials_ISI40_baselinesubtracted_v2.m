@@ -1,5 +1,6 @@
 %This is a program that pools all the behavioral data, agnostic about
-%imaging data. "Data for DMDL_DLDM_CBDL" under behavioral analysis under pooled data
+%imaging data. "Data for DMDL_DLDM_CBDL" under behavioral analysis under
+%pooled data. Created by Haleh Fotowat
 clearvars
 % close all
 path=uigetdir;

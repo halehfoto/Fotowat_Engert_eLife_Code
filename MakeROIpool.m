@@ -1,9 +1,7 @@
 %this is a program to take the plane number corresponding to the
 %experimental plane and scale factor for all the fish in the pool and also the final pool
-%cluster data and generate CSV files to be transformed into zbrain
-%coordinates
-%choose folder DMDLBRDLCB_allbrainspoolPL
-
+%cluster data and generate CSV files to be transformed into zbrain coordinates choose folder DMDLBRDLCB_allbrainspoolPL
+%created by Haleh Fotowat
 clearvars
 close all
 path=uigetdir;

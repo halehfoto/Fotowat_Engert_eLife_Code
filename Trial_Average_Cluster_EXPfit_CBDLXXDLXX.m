@@ -1,7 +1,6 @@
 %this is a program that generates trial averages and forms clusters based
-%on that//Volumes/One
-%Touch/2P-Analyzed-backup/CaImAn-MATLAB-master/PoolData/UniversalAnalysisHA/TimeAnalysis/XXCBDLXXDLXX
-
+%on that. Data in TimeAnalysis/XXCBDLXXDLXX
+%Created by Haleh Fotowat.
 
 close all
 clearvars

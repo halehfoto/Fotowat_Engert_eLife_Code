@@ -1,5 +1,5 @@
 %this is a program that calculates response to the first encounter with the stimulus
-%for DL, DM and CB. Choose DLDMCB_trial1_comp
+%for DL, DM and CB. Choose DLDMCB_trial1_comp. Created by Haleh Fotowat
 clearvars
 close all
 path=uigetdir;

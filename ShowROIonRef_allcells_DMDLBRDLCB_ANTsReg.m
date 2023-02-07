@@ -1,5 +1,5 @@
 %this is a program to plot the ROIs on the reference brain
-%read the reference brain
+%read the reference brain. Created by Haleh Fotowat.
 close all
 clearvars
 path=uigetdir;

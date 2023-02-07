@@ -1,3 +1,5 @@
+%This is a function that calculates cluster types for neuronal data.
+%Created by Haleh Fotowat
 function [CCStimMot,trial_ave_mat,stim_mat] = ClusterTypes(repse,stim_type_cnt,F_dff_pool_all,ISI,Motor,fn,fps,per2p,stim_size_degrees)
 %This is a function that clusters data through first dividing into cells
 %with different tuning properties and then sorting individual cell types

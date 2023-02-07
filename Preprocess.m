@@ -1,5 +1,5 @@
 %this program reads the stimulus, behavior and 2p data and generates
-%neuronal clusters for one plane recordings
+%neuronal clusters for one plane recordings. Created by Haleh Fotowat
 close all
 clearvars
 Reg=input('please enter 1 for analysis of hindbrain, 2 for midbrain and 3 for forebrain 0 for all brain and -1 for neuropil: ');

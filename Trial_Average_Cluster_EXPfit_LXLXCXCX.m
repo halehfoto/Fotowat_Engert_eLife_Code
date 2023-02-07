@@ -1,5 +1,5 @@
 %this is a program that generates trial averages and forms clusters based
-%on that/Select folder TwoEyeAnalysis/ISI20/LXLXCXCX
+%on that/Select folder TwoEyeAnalysis/ISI20/LXLXCXCX. Created by Haleh Fotowat.
 close all
 clearvars
 path=uigetdir;

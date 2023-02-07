@@ -1,5 +1,5 @@
 %This is a code to generate response amplitude changes with trial and side
-%plots. 
+%plots. Created by Haleh Fotowat.
 close all
 clearvars
 s=what;

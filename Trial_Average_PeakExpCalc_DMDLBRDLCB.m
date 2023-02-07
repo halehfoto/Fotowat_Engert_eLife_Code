@@ -1,5 +1,5 @@
 %this is a program that generates trial averages and forms clusters based
-%on that/Choose folder :/Volumes/One Touch/2P-Analyzed-backup/CaImAn-MATLAB-master/PoolData/UniversalAnalysisHA/DMDLBRDLCB_allbrainpoolPL
+%on that/Choose folder : DMDLBRDLCB_allbrainpoolPL. Created by Haleh Fotowat.
 
 close all
 clearvars

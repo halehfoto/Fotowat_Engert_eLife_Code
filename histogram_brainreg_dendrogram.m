@@ -1,6 +1,5 @@
 %this is a program that reads the information about brain regions and
-%creates histograms.use the unsorted exel sheet that sumit shared in
-%dropbox folder ShareSumit
+%creates histograms. Created by Haleh Fotowat
 close all
 clearvars
 close all
